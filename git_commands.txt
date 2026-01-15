@@ -1,0 +1,31 @@
+. basic commands of gir
+| Command                        | Purpose                                                   |
+| ------------------------------ | --------------------------------------------------------- |
+| `git init`                     | Initialize a Git repository (creates `.git` folder)       |
+| `git status`                   | Check current repo status (untracked/modified files)      |
+| `git add .` / `git add <file>` | Stage all changes or a specific file (untracked → staged) |
+| `git restore <file>`           | Discard changes in working directory (unstage changes)    |
+| `git reset <file>`             | Unstage a staged file                                     |
+| `git commit -m "message"`      | Commit staged changes (staged → tracked)                  |
+| `git branch`                   | List branches                                             |
+
+
+. Commands to setup git(local) to github
+    1️⃣ git remote add origin https://github.com/aniketgholap0/github-for-devops.git
+        #Adds a remote repository called origin to your local Git repo.
+        After this, your local Git knows where to push and pull from.
+    2️⃣ git remote -v
+        #Shows all configured remotes with their URLs.
+    3️⃣ git remote set-url origin https://(Your-PAT)@github.com/aniketgholap0/github-for-devops.git
+        #Changes the URL of the origin remote to the one with your PAT (Personal Access Token) embedded.
+        (not recommended on Windows)
+    4️⃣ git remote remove origin
+        #Removes the remote called origin from your local repo.
+
+. After updating
+| Command                   | Purpose                              |
+| ------------------------- | ------------------------------------ |
+| `git status`              | Check for changes                    |
+| `git add <file>`          | Stage your changes                   |
+| `git commit -m "message"` | Commit the changes                   |
+| `git push origin main`    | Push commits to GitHub (main branch) |
