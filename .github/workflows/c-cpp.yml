@@ -15,3 +15,5 @@ jobs:
     - uses: actions/checkout@v4
     - name: Build C program
       run: gcc test.c -o test
+    - name: run program
+      run: ./test
