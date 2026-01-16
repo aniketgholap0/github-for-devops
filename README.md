@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello Dosto 👋
+# Hey, Hii ! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;3%2B+Years+Experience+Building+Web+Apps;Proficient+in+C%23,+Angular,+ASP.NET+Core;Entity+Framework+Core+|+SQL+Server+|+Azure)](https://git.io/typing-svg)
 
@@ -52,26 +52,26 @@ Authentication & APIs
 
 💻 Featured Projects
 Project 1 – MyWebApp
-<p> <img src="https://img.shields.io/badge/.NET-5.0-blue?style=flat-square&logo=.net&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Angular-13-red?style=flat-square&logo=angular&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/SQL%20Server-2019-green?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> 
+<p> <img src="https://img.shields.io/badge/.NET-8.0-blue?style=flat-square&logo=.net&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Angular-16-red?style=flat-square&logo=angular&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL%20Server-2021-green?style=flat-square&logo=microsoft-sql-server&logoColor=white" /> 
 </p> > A full-stack web application with **user authentication, REST APIs, and cloud deployment**.
 Project 2 – API Service
-<p> <img src="https://img.shields.io/badge/ASP.NET_Core-6.0-blue?style=flat-square&logo=.net&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-6.0-green?style=flat-square" /> 
+<p> <img src="https://img.shields.io/badge/ASP.NET_Core-8.0-blue?style=flat-square&logo=.net&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-8.0-green?style=flat-square" /> 
   <img src="https://img.shields.io/badge/JWT_Authentication-orange?style=flat-square" /> 
 </p> > Backend API service with **JWT authentication, SQL Server integration, and Swagger docs**.
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LondheShubham153&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketgholap0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 ---
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LondheShubham153&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketgholap0&theme=tokyo-night&hide_border=true" alt="Activity Graph">
 </div>
 
 ---
@@ -80,7 +80,6 @@ Project 2 – API Service
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gholap-554a16143/)
 [![Email](https://img.shields.io/badge/Email-gholapaniket0@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gholapaniket0@gmail.com)
 
