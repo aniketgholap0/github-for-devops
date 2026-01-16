@@ -13,6 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    - name: Run clang-tidy
+      run: clang-tidy test.c
     - name: Build C program
       run: gcc test.c -o test
     - name: run program
