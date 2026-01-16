@@ -96,20 +96,15 @@
 
         Basic Workflow Structure-
             name: C CI
-
             on:
                 push:
                 pull_request:
-
             jobs:
                 build:
                 runs-on: ubuntu-latest
-
             steps:
                 - uses: actions/checkout@v4
-
                 - name: Compile
-                run: gcc test.c -o test
-
-            - name: Run
-                run: ./test
+                  run: gcc test.c -o test
+                - name: Run
+                  run: ./test
