@@ -79,3 +79,37 @@
         .git/hooks/
         ├── pre-commit        (NO extension, shell wrapper)
         ├── pre-commit.ps1    (PowerShell logic)
+
+.GitHub Actions
+    GitHub Actions is a CI/CD (Continuous Integration / Continuous Deployment) tool built into GitHub that lets you:
+        -Automatically build
+        -Test
+        -Lint
+        -Deploy code
+    #Key Concepts-
+        Workflow-an automated process.(.github/workflows/c-ci.yml)
+        Event (on)-Defines when the workflow runs.
+        Job-Jobs run on virtual machines called runners.
+        Runner-machine that runs your job.(ubuntu-latest)
+        Step-Steps run commands or actions.
+        Action-reusable piece of automation.
+
+        Basic Workflow Structure-
+            name: C CI
+
+            on:
+                push:
+                pull_request:
+
+            jobs:
+                build:
+                runs-on: ubuntu-latest
+
+            steps:
+                - uses: actions/checkout@v4
+
+                - name: Compile
+                run: gcc test.c -o test
+
+            - name: Run
+                run: ./test
