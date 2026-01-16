@@ -13,11 +13,11 @@
 I'm a Full Stack .NET Developer and Software Engineer with 3+ years of experience in designing, developing, and maintaining robust web applications. I specialize in both front-end and back-end development,
 delivering clean, maintainable code and scalable solutions. I'm passionate about continuous learning and driving innovation through best practices and modern technologies.
 
--🔭 Currently working on web applications, cloud solutions, and backend architecture
--🌱 Always learning about .NET ecosystem, Angular, Azure, and emerging technologies
--👯 Looking to collaborate on open-source projects and enterprise web apps
--💬 Ask me about C#, ASP.NET Core, Angular, SQL Server, Entity Framework, and JWT Authentication
--⚡ Fun fact: I enjoy optimizing code, mentoring, and sharing knowledge
+- 🔭 Currently working on web applications, cloud solutions, and backend architecture
+- 🌱 Always learning about .NET ecosystem, Angular, Azure, and emerging technologies
+- 👯 Looking to collaborate on open-source projects and enterprise web apps
+- 💬 Ask me about C#, ASP.NET Core, Angular, SQL Server, Entity Framework, and JWT Authentication
+- ⚡ Fun fact: I enjoy optimizing code, mentoring, and sharing knowledge
 
 🛠️ Tech Stack
 
