@@ -83,7 +83,7 @@ Project 2 – API Service
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-gholap-554a16143/)
 [![Email](https://img.shields.io/badge/Email-gholapaniket0@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gholapaniket0@gmail.com)
-[![GitHub](<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>)
+<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
