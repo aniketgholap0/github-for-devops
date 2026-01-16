@@ -1,3 +1,5 @@
-int main() {
-    printf("Hello")   // missing semicolon
+#include<stdio.h>
+int main(){
+    printf("Hello World!");
+    return 0;
 }

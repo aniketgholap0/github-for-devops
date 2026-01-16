@@ -46,8 +46,36 @@
                  2.Clone your fork locally
 
 .branches
+    1.It allows parallel development.
+    2.Changes in one branch do not affect others.
+    3.The default branch is usually main.
+    4.A branch is a pointer to a commit.
+    
     head=> latest commit on your repo
 
     To add changes from one branch to another branch in github =>
         1.Pull request on github
         2.merge
+    Pull same on local
+        1.`git pull origin <branch>`
+
+    Create a branch-git branch feature-login
+    Switch to a branch-git checkout feature-login
+    Create + switch (modern way)-git switch -c feature-login
+    Deleting Branches-git branch -d feature-login
+
+    1️⃣git merge - Combines the changes from one branch into another.
+    2️⃣git fetch - Downloads new changes from the remote repository(brings remote branches to local).Downloads changes only
+    3️⃣git pull - Fetches + integrates changes in one step(changes to remote branch brough to local).
+
+.Hooks
+    Git hooks are scripts that run automatically when certain Git events occur.(.git/hooks/).
+    Git hooks are shell-based
+    Types-
+        1.Client-side
+        2.Server-side
+    #Git blocks an action ONLY if a hook exits with a non-zero code.
+    Correct Windows setup-
+        .git/hooks/
+        ├── pre-commit        (NO extension, shell wrapper)
+        ├── pre-commit.ps1    (PowerShell logic)

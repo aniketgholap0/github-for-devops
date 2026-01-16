@@ -1,0 +1,27 @@
+# VS Code settings
+.vscode/
+.clang-tidy
+
+# Compiled binaries
+*.exe
+*.out
+*.dll
+
+# Object files
+*.o
+*.obj
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Backup files
+*~
+*.bak
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/
