@@ -16,7 +16,7 @@ delivering clean, maintainable code and scalable solutions. I'm passionate about
 - 🔭 Currently working on web applications, cloud solutions, and backend architecture
 - 🌱 Always learning about .NET ecosystem, Angular, Azure, and emerging technologies
 - 👯 Looking to collaborate on open-source projects and enterprise web apps
-- 💬 Ask me about C#, ASP.NET Core, Angular, SQL Server, Entity Framework, and JWT Authentication
+- 💬 Ask me about C#, ASP.NET Core, Angular, SQL Server, Entity Framework Core, and JWT Authentication
 - ⚡ Fun fact: I enjoy optimizing code, mentoring, and sharing knowledge
 
 🛠️ Tech Stack
